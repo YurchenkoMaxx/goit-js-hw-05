@@ -1,2 +1,2 @@
-# goit-js-hw-04
-Maksym Yurchenko homework1
+# goit-js-hw-05
+Maksym Yurchenko homework5
